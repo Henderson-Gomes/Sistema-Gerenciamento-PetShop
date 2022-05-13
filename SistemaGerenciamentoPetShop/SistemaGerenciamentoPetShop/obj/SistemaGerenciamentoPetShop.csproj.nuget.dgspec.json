@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hende\\OneDrive\\Documentos\\Sistema de Gerenciamento PETSHOP\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop.csproj": {}
+    "C:\\Users\\hende\\OneDrive\\Documentos\\PetShop\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hende\\OneDrive\\Documentos\\Sistema de Gerenciamento PETSHOP\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop.csproj": {
+    "C:\\Users\\hende\\OneDrive\\Documentos\\PetShop\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hende\\OneDrive\\Documentos\\Sistema de Gerenciamento PETSHOP\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop.csproj",
+        "projectUniqueName": "C:\\Users\\hende\\OneDrive\\Documentos\\PetShop\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop.csproj",
         "projectName": "SistemaGerenciamentoPetShop",
-        "projectPath": "C:\\Users\\hende\\OneDrive\\Documentos\\Sistema de Gerenciamento PETSHOP\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop.csproj",
+        "projectPath": "C:\\Users\\hende\\OneDrive\\Documentos\\PetShop\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop.csproj",
         "packagesPath": "C:\\Users\\hende\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hende\\OneDrive\\Documentos\\Sistema de Gerenciamento PETSHOP\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop\\obj\\",
+        "outputPath": "C:\\Users\\hende\\OneDrive\\Documentos\\PetShop\\SistemaGerenciamentoPetShop\\SistemaGerenciamentoPetShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
